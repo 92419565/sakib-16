@@ -1,0 +1,143 @@
+/*
+  Theme Name: Name - Multipurpose HTML Template
+  Author: mdsalim400@gmail.com
+  Support: admin@gmail.com
+  Description: Creative  HTML5 template.
+  Version: 1.0
+*/
+
+/* CSS Index
+-----------------------------------
+1. Theme default css
+2. header
+3. slider
+4. about-area
+5. features-box
+6. department
+7. team
+8. video-area
+9. counter
+10. footer
+*/
+
+
+
+/* 1. Theme default css */
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,500,800&display=swap');
+.choose-area{
+	padding:50px 0;
+}
+.choose-heading{}
+.choose-heading h2 {
+	padding: 10px;
+	display: block;
+	position: relative;
+}
+.choose-heading h2::before {
+	position: absolute;
+	content: '';
+	width: 80px;
+	height: 2px;
+	background: #FF8F17;
+	left: 50%;
+	bottom: -12%;
+	transform: translate(-50%,-50%);
+}
+.choose-heading h2::after{
+	position: absolute;
+	content: '';
+	width: 30px;
+	height: 2px;
+	background: #222222;
+	left: 50%;
+	bottom: -12%;
+	transform: translate(-50%,-50%);
+}
+.choose-heading p {
+	padding: 15px;
+	font-size: 18px;
+}
+.choose-content{
+	padding-bottom:20px;
+}
+.choose-icon {
+	padding-bottom: 20px;
+}
+.choose-icon img{}
+.choose-read{}
+.choose-read h5 {
+	font-size: 20px;
+	padding-bottom: 20px;
+}
+.Repuation-area{
+	background:#EEF3FA;
+	padding:100px 0;
+}
+.reputation-content{}
+.reputation-content h4 {
+	text-transform: uppercase;
+	padding-bottom:10px;
+}
+.reputation-content h4 span{
+	color:#29B8FF;
+}
+.Repuation-area img{
+	height:370px;
+}
+.reputation-content p{}
+.reputation-coll{
+	width:80%;
+}
+.card-header a{
+	text-decoration:none;
+}
+.bg{
+	background:#fff;
+	padding:20px 0;
+}
+.appoinment-area{
+	padding:100px 0;
+	background:#EEF3FA;
+	margin-top:50px;
+}
+.appoinment-rotate {
+	transform: rotate(-91deg);
+	display: inline-block;
+	margin-top: 71px;
+	margin-left: -30px;
+}
+.appoinment-rotate h2{
+	font-size: 30px;
+	opacity: .6;
+	color:#fff;
+	font-weight:700;
+}   
+.appoinment-form {
+	background: linear-gradient(rgba(50,214,190,.9),rgba(50,214,190,.9)),url(../img/sli.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 100px 40px 100px 0;
+}
+.appoinment-data{
+	padding:50px;
+}
+.appoinment-data h4{
+	margin-top:50px;
+	margin-bottom:50px;
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
